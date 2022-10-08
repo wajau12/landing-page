@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+    display: flex;
+    height: 100vh;
+    font-family: Roboto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
