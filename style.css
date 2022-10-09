@@ -19,13 +19,14 @@ body {
 .top-header {
     display: flex;
     justify-content: space-between; 
+    align-items: center;
     margin-left: 48px;
     margin-right: 48px;
    
 }
 .logo {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     font-weight: 800;
     font-size: 24px;
     color: #f9faf8;
@@ -60,15 +61,16 @@ body {
 
 }
 .image-holder {
-   
-    width: 300px;
+    width: 350px;
     height: 200px;
     background-color: darkslategrey;
 }
 
+
 ul {
     display: flex;
     list-style: none;
+
 }
 a {
     text-decoration: none;
