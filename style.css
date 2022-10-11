@@ -6,8 +6,7 @@ body {
     justify-content: space-between;
     height: 100vh; 
     font-family: Arial, sans-serif;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin: 0px;
 }
 
 /* Header section */
@@ -32,6 +31,8 @@ body {
     
     width: 60px;
     height: auto;
+    background-color: white;
+    border-radius: 12px;
 }
 img {
     height: 100%;
@@ -123,12 +124,11 @@ a {
     justify-content: center;
     height: 150px;
     border: solid #3882f6;
-    border-radius: 12px;
+    border-radius: 8px;
     margin-bottom: 20px;
-    font-size: 48px;
-    color: darkblue;
 
  }
+
 
  /* Quote section */
 
